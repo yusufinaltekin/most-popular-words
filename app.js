@@ -824,7 +824,7 @@ const words = [
         "türkçe": "aç"
     }
     , {
-        "english": "husbandhusband",
+        "english": "husband",
         "türkçe": "koca"
     }
     , {
